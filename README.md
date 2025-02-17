@@ -26,10 +26,3 @@ Este é um projeto de **calculadora simples** feita com **HTML, CSS e JavaScript
 
 ![Calculadora Simples](Calculadora/Imagens/calculadora.png) <!-- Substitua por um print real do projeto -->
 
----
-
-## 📂 Como Usar?
-
-1️⃣ Baixe ou clone este repositório:  
-```bash
-git clone https://github.com/seu-usuario/calculadora-simples.git
